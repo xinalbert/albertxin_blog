@@ -8,5 +8,5 @@ albertxin常使用先进的工具和库，比如 REINVENT4、DeepPurpose、DeepC
 
 如果你觉得这对你有帮助，不吝请我喝杯咖啡！
 [paypal：PayPal.Me/abertxin](PayPal.Me/abertxin)
-Gmeek-html<img src="https://xinalbert.github.io/albertxin_blog/coffee/ali.jpeg" alt="Image 1" style="width:45%; margin-right:5%;" />
-Gmeek-html<img src="https://xinalbert.github.io/albertxin_blog/coffee/wecaht.jpeg" alt="Image 2" style="width:45%;" />
+`Gmeek-html<img src="https://xinalbert.github.io/albertxin_blog/coffee/ali.jpeg" alt="Image 1" style="width:45%; margin-right:5%;" />`
+`Gmeek-html<img src="https://xinalbert.github.io/albertxin_blog/coffee/wecaht.jpeg" alt="Image 2" style="width:45%;" />`
