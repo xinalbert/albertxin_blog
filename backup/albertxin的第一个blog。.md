@@ -7,4 +7,4 @@ albertxin常使用先进的工具和库，比如 REINVENT4、DeepPurpose、DeepC
 ### 
 
 如果你觉得这对你有帮助，不吝请我喝杯咖啡！
-![](https://xinalbert.github.io/albertxin_blog/2024%20photo/coffee/ali.jpeg) ![](https://xinalbert.github.io/albertxin_blog/2024%20photo/coffee/wechat.jepg)
+![](https://xinalbert.github.io/albertxin_blog/coffee/ali.jpeg) ![](https://xinalbert.github.io/albertxin_blog/coffee/wechat.jepg)
