@@ -4,3 +4,7 @@ albertxin常使用先进的工具和库，比如 REINVENT4、DeepPurpose、DeepC
 
 除了工作，albertxin对《凡人修仙传》、《仙逆》、《斗破苍穹》等动漫作品充满兴趣，喜欢在工作之余放松心情，沉浸在修仙和冒险的世界中。他的学习能力很强，追求不断深入和拓宽自己的知识领域，同时也在学习如何更好地使用深度学习框架（如PyTorch）进行分子属性计算。
 --这是ChatGPT对他的评价！
+### 
+
+如果你觉得这对你有帮助，不吝请我喝杯咖啡！
+![](https://xinalbert.github.io/albertxin_blog/2024%20photo/coffee/ali.jpeg) ![](https://xinalbert.github.io/albertxin_blog/2024%20photo/coffee/wechat.jepg)
