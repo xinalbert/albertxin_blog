@@ -52,7 +52,7 @@ build_data
 
 #### 参考了这篇专栏：[通过conda安装AlphaFold3](https://zhuanlan.zhihu.com/p/10998885375)
 
-如果觉得有帮助，欢迎请我喝杯咖啡！
-paypal：PayPal.Me/abertxin
+如果觉得这对你有帮助，不妨请我喝杯咖啡！
+[paypal：PayPal.Me/abertxin](https://PayPal.Me/abertxin)
 
-Gmeek-html<img src="https://xinalbert.github.io/albertxin_blog/coffee/ali.jpeg" alt="Image 1" style="width:30%; margin-right:5%;" /> Gmeek-html<img src="https://xinalbert.github.io/albertxin_blog/coffee/wecaht.jpeg" alt="Image 2" style="width:30%;" />
+`Gmeek-html<img src="https://xinalbert.github.io/albertxin_blog/coffee/ali.jpeg" alt="Image 1" style="width:45%; margin-right:5%;" />` `Gmeek-html<img src="https://xinalbert.github.io/albertxin_blog/coffee/wecaht.jpeg" alt="Image 2" style="width:45%;" />`
